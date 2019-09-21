@@ -1,0 +1,54 @@
+
+.project-date-selection{
+    margin-left:20px;
+}
+.margin-top-date-table{
+    margin-top:20px;
+}
+.grey-back-drop-list{
+    background-color: #e9ecef;
+    float:left;
+    min-height:120px; 
+    width:70%;
+    margin:5px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.bold-font{
+    font-weight:500;
+}
+label{
+    font-variant: initial !important;
+    color:blue !important;
+    font-weight:bold !important;
+    font-size:small;
+}
+.add, .reset{
+    background-color:red !important;
+    color:black !important;
+    font-weight: 600 !important;
+}
+.menu{
+    background-color:burlywood !important;
+    color:black !important;
+    font-weight: 600 !important;
+}
+.routerBorder{
+    background-color: gainsboro !important;
+}
+.edit{
+    background-color: green !important;
+    color:white !important;
+    font-weight: 600 !important;
+}
+.end{
+    background-color: green !important;
+    color:white !important;
+    font-weight: 600 !important;
+}
+.details{
+    color: maroon;
+}
+.grey-back-drop-list{
+    background-color:bisque;
+}

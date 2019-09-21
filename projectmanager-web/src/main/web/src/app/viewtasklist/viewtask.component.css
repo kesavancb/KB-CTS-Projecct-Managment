@@ -1,0 +1,32 @@
+label, .h6{
+    font-variant: initial;
+    color:blue !important;
+    font-weight: bold !important;
+    font-size:large;
+}
+th{
+    font-variant: initial;
+    color:yellowgreen !important;
+}
+.edit, .end{
+    background-color: green !important;
+    color:black !important;
+    font-weight: 600 !important;
+}
+.modal-footer, .modal-header, .modal-title, .modal-body{
+    background-color:aquamarine !important;
+    color:black !important;
+}
+.success, .search{
+    background-color:red !important;
+    color:black !important;
+    font-weight: 600 !important;
+}
+.routerBorder{
+    background-color: gainsboro !important;
+}
+.menu{
+    background-color:burlywood !important;
+    color:black !important;
+    font-weight: 600 !important;
+}

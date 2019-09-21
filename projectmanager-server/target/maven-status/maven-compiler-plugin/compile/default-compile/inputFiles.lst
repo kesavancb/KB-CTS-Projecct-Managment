@@ -1,0 +1,17 @@
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\entity\Project.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\bo\TaskVO.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\filter\CORSFilter.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\repository\ParentTaskManagerRepository.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\entity\User.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\service\ProjectManagerServiceImpl.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\bo\UserVO.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\repository\ProjectManagerRepository.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\bo\ProjectVO.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\Application.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\entity\ParentTask.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\entity\Task.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\repository\UserManagerRepository.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\controller\ProjectManagerController.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\bo\ParentTaskVO.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\repository\TaskManagerRepository.java
+C:\KB\Project\KB-CTS-Project-Management\projectmanager-server\src\main\java\com\springboot\service\ProjectManagerService.java
