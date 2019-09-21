@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb03d77e-dee0-4a34-82ce-2ddd2ae465cc" name="Default" comment="" />
+    <list default="true" id="bb03d77e-dee0-4a34-82ce-2ddd2ae465cc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-server/target/projectmanager-server-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projectmanager-server/target/projectmanager-server-0.0.1-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-server/target/projectmanager-server-0.0.1-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/projectmanager-server/target/projectmanager-server-0.0.1-SNAPSHOT.jar.original" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-server/target/surefire-reports/TEST-com.test.springboot.controller.ProjectManagerControllerTest.xml" afterPath="$PROJECT_DIR$/projectmanager-server/target/surefire-reports/TEST-com.test.springboot.controller.ProjectManagerControllerTest.xml" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-server/target/surefire-reports/TEST-com.test.springboot.service.ProjectManagerServiceImplTest.xml" afterPath="$PROJECT_DIR$/projectmanager-server/target/surefire-reports/TEST-com.test.springboot.service.ProjectManagerServiceImplTest.xml" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-server/target/surefire-reports/com.test.springboot.controller.ProjectManagerControllerTest.txt" afterPath="$PROJECT_DIR$/projectmanager-server/target/surefire-reports/com.test.springboot.controller.ProjectManagerControllerTest.txt" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-server/target/surefire-reports/com.test.springboot.service.ProjectManagerServiceImplTest.txt" afterPath="$PROJECT_DIR$/projectmanager-server/target/surefire-reports/com.test.springboot.service.ProjectManagerServiceImplTest.txt" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/0b/59/b4aebd5636092eeeb311cc51cd603060416684f768194a0c403b63cbea2a" afterPath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/0b/59/b4aebd5636092eeeb311cc51cd603060416684f768194a0c403b63cbea2a" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/1b/54/c67dd54ada5372298440af1376dc6f644733deb7d4d102ccfbb8ebbf0e99" afterPath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/1b/54/c67dd54ada5372298440af1376dc6f644733deb7d4d102ccfbb8ebbf0e99" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/2e/05/d9a175ff4f11fe8bb57a6d26659bda290615ee63cdf992ade089786f359a" afterPath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/2e/05/d9a175ff4f11fe8bb57a6d26659bda290615ee63cdf992ade089786f359a" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/97/18/0d8317a372d5883f17a6f2c933729b39e92cef21821200f7f1d77dc41f94" afterPath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/97/18/0d8317a372d5883f17a6f2c933729b39e92cef21821200f7f1d77dc41f94" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/bb/cf/e640e957f04b88ecb6f72f19d52c6855a87aff47df3f3bdf2fe0ba78fb96" afterPath="$PROJECT_DIR$/projectmanager-web/src/main/web/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/bb/cf/e640e957f04b88ecb6f72f19d52c6855a87aff47df3f3bdf2fe0ba78fb96" />
+      <change beforePath="$PROJECT_DIR$/projectmanager-web/target/projectmanager-web-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projectmanager-web/target/projectmanager-web-0.0.1-SNAPSHOT.jar" />
+    </list>
     <ignored path="$PROJECT_DIR$/projectmanager-web/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/projectmanager-server/target/" />
@@ -88,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/projectmanager-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2584">
-              <caret line="152" column="21" lean-forward="true" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
+              <caret line="152" column="21" lean-forward="false" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -116,6 +130,9 @@
     <dirStrings>
       <dir>C:\KB\Project\KB-CTS-Project-Management</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -158,6 +175,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -308,7 +326,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -317,8 +334,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -412,7 +429,7 @@
     <entry file="file://$PROJECT_DIR$/projectmanager-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2584">
-          <caret line="152" column="21" lean-forward="true" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
+          <caret line="152" column="21" lean-forward="false" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
           <folding />
         </state>
       </provider>
